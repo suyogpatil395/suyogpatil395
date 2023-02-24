@@ -1,3 +1,4 @@
+![logo](https://github.com/suyogpatil395/suyogpatil395/blob/main/banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Suyog Patil</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
