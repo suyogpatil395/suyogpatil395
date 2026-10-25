@@ -26,11 +26,11 @@ def level(c):
     return 0 if r <= .25 else 1 if r <= .5 else 2 if r <= .75 else 3
 
 def render(t):
-    T = THEMES[t]; W, H = 1000, 300; cell, gap = 13, 3; x0, y0 = 40, 70
+    T = THEMES[t]; W, H = 1000, 300; cell, gap = 13, 3; x0 = (W - len(weeks) * (cell + gap) + gap) // 2; y0 = 70
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
            f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="16" fill="{T["bg"]}" stroke="{T["stroke"]}"/>',
            f'<text x="40" y="44" fill="{T["ink"]}" font-family="{FONT}" font-size="18" font-weight="700">{total} contributions in the last year</text>',
-           f'<text x="{W-40}" y="44" text-anchor="end" fill="{T["mut"]}" font-family="{MONO}" font-size="12">@{USER} · updated daily</text>']
+           f'<text x="{W-40}" y="44" text-anchor="end" fill="{T["mut"]}" font-family="{MONO}" font-size="12">@{USER} · auto-updated</text>']
     for wi, w in enumerate(weeks):
         for di, c in enumerate(w):
             lv = level(c); col = T["empty"] if lv < 0 else T["lv"][lv]
@@ -47,9 +47,9 @@ def render(t):
     out.append(f'<text x="{x0}" y="{base+22}" fill="{T["mut"]}" font-family="{MONO}" font-size="11">weekly trend</text>')
     for i, c in enumerate(["Less"] + T["lv"] + ["More"]):
         if c in ("Less", "More"):
-            out.append(f'<text x="{W-200 + i*22}" y="{base+22}" fill="{T["mut"]}" font-family="{FONT}" font-size="11">{c}</text>')
+            out.append(f'<text x="{W-40-130 if c == "Less" else W-40}" y="{base+22}" text-anchor="{"end" if c == "Less" else "end"}" fill="{T["mut"]}" font-family="{FONT}" font-size="11">{c}</text>')
         else:
-            out.append(f'<rect x="{W-176 + (i-1)*18}" y="{base+11}" width="13" height="13" rx="3" fill="{c}"/>')
+            out.append(f'<rect x="{W-40-122 + (i-1)*18}" y="{base+11}" width="13" height="13" rx="3" fill="{c}"/>')
     out.append("</svg>")
     return "\n".join(out)
 
