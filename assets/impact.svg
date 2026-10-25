@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.0s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" begin="0.0s" dur=".6s" fill="freeze"/>
+<rect x="20.0" y="14" width="270" height="140" rx="16" fill="#0f172a" stroke="#1e293b"/>
+<rect x="20.0" y="14" width="270" height="4" rx="2" fill="#22d3ee"><animate attributeName="width" values="0;270" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+<text x="42.0" y="78" fill="#22d3ee" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="800">50+<animate attributeName="opacity" values="1;.75;1" dur="3s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="42.0" y="108" fill="#e2e8f0" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600">restaurant clients</text>
+<text x="42.0" y="132" fill="#94a3b8" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="13">delivered end to end</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.25s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" begin="0.25s" dur=".6s" fill="freeze"/>
+<rect x="316.6666666666667" y="14" width="270" height="140" rx="16" fill="#0f172a" stroke="#1e293b"/>
+<rect x="316.6666666666667" y="14" width="270" height="4" rx="2" fill="#a78bfa"><animate attributeName="width" values="0;270" dur="1.2s" begin="0.55s" fill="freeze"/></rect>
+<text x="338.6666666666667" y="78" fill="#a78bfa" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="800">100%<animate attributeName="opacity" values="1;.75;1" dur="3s" begin="0.25s" repeatCount="indefinite"/></text>
+<text x="338.6666666666667" y="108" fill="#e2e8f0" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600">BI ownership</text>
+<text x="338.6666666666667" y="132" fill="#94a3b8" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="13">Sigma Computing + Rill</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" begin="0.5s" dur=".6s" fill="freeze"/>
+<rect x="613.3333333333334" y="14" width="270" height="140" rx="16" fill="#0f172a" stroke="#1e293b"/>
+<rect x="613.3333333333334" y="14" width="270" height="4" rx="2" fill="#34d399"><animate attributeName="width" values="0;270" dur="1.2s" begin="0.8s" fill="freeze"/></rect>
+<text x="635.3333333333334" y="78" fill="#34d399" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="800">1 prompt<animate attributeName="opacity" values="1;.75;1" dur="3s" begin="0.5s" repeatCount="indefinite"/></text>
+<text x="635.3333333333334" y="108" fill="#e2e8f0" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600">replaces hours</text>
+<text x="635.3333333333334" y="132" fill="#94a3b8" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="13">of custom report building</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur=".6s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 18" to="0 0" begin="0.75s" dur=".6s" fill="freeze"/>
+<rect x="910.0" y="14" width="270" height="140" rx="16" fill="#0f172a" stroke="#1e293b"/>
+<rect x="910.0" y="14" width="270" height="4" rx="2" fill="#fbbf24"><animate attributeName="width" values="0;270" dur="1.2s" begin="1.05s" fill="freeze"/></rect>
+<text x="932.0" y="78" fill="#fbbf24" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="800">2+ yrs<animate attributeName="opacity" values="1;.75;1" dur="3s" begin="0.75s" repeatCount="indefinite"/></text>
+<text x="932.0" y="108" fill="#e2e8f0" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600">data engineering</text>
+<text x="932.0" y="132" fill="#94a3b8" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif" font-size="13">SQL · Python · BI</text></g></svg>
