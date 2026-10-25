@@ -5,7 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/suyogpatil395">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Data+Engineer+%40+FoodBot+AI;Owning+Sigma+%26+Rill+for+50%2B+restaurant+clients;Built+Analytics+Studio+%E2%80%94+AI+reports+in+one+prompt;SQL+%E2%80%A2+Python+%E2%80%A2+DuckDB+%E2%80%A2+Semantic+layers;Raw+data+%E2%86%92+trusted+KPIs+%E2%86%92+decisions;Open+to+Data+Engineer+roles+%F0%9F%9A%80" alt="Typing animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&center=true&vCenter=true&width=900&height=50&lines=Data+Engineer+%40+FoodBot+AI;Sigma+%26+Rill+for+50%2B+restaurant+clients;Built+Analytics+Studio+%E2%80%94+AI+reports;SQL+%E2%80%A2+Python+%E2%80%A2+DuckDB+%E2%80%A2+Semantic+layers;Raw+data+%E2%86%92+trusted+KPIs+%E2%86%92+decisions;Open+to+Data+Engineer+roles&color=22D3EE" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&center=true&vCenter=true&width=900&height=50&lines=Data+Engineer+%40+FoodBot+AI;Sigma+%26+Rill+for+50%2B+restaurant+clients;Built+Analytics+Studio+%E2%80%94+AI+reports;SQL+%E2%80%A2+Python+%E2%80%A2+DuckDB+%E2%80%A2+Semantic+layers;Raw+data+%E2%86%92+trusted+KPIs+%E2%86%92+decisions;Open+to+Data+Engineer+roles&color=6D28D9" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&center=true&vCenter=true&width=900&height=50&lines=Data+Engineer+%40+FoodBot+AI;Sigma+%26+Rill+for+50%2B+restaurant+clients;Built+Analytics+Studio+%E2%80%94+AI+reports;SQL+%E2%80%A2+Python+%E2%80%A2+DuckDB+%E2%80%A2+Semantic+layers;Raw+data+%E2%86%92+trusted+KPIs+%E2%86%92+decisions;Open+to+Data+Engineer+roles&color=6D28D9" alt="Typing animation" />
+    </picture>
   </a>
 </p>
 
@@ -180,7 +184,11 @@ I turn **messy restaurant POS data into numbers people trust**, then make those 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suyogpatil395&bg_color=0b1020&color=22d3ee&line=a78bfa&point=34d399&area=true&area_color=22d3ee&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyogpatil395/suyogpatil395/output/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suyogpatil395/suyogpatil395/output/activity-light.svg" />
+    <img src="https://raw.githubusercontent.com/suyogpatil395/suyogpatil395/output/activity-light.svg" width="100%" alt="Contribution heatmap and weekly trend" />
+  </picture>
 </p>
 
 <p align="center">
