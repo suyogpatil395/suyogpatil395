@@ -24,7 +24,9 @@ jobs:
         with:
           path: src
       - name: Activity heatmap
-        run: python3 src/scripts/activity.py dist
+        run: |
+          sudo chown -R "$(id -u)" dist
+          python3 src/scripts/activity.py dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
